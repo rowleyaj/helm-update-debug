@@ -1,0 +1,4 @@
+apiVersion: v1
+description: chart with charta as a dependency
+name: chartb
+version: 0.1.0
