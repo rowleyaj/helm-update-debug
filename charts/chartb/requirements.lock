@@ -1,0 +1,6 @@
+dependencies:
+- name: charta
+  repository: file://../charta
+  version: 0.1.0
+digest: sha256:30973a59bb3273b3d5fc7398943535c24dcef03fdc13ec4bd38ae40e8ad86130
+generated: 2017-10-18T21:05:49.098659036+01:00
